@@ -1,7 +1,7 @@
 # gym-management-system
 
 Extract the zip folder 
-run it on eclipse enterprise endition
+run it on eclipse enterprise edition
 copy the sql commonds and paste it in mysql wrk bench (make sure path and server ports are same )
 ![image](https://user-images.githubusercontent.com/82384249/232325017-9b4ae09b-54d9-48e0-bf81-edeb77bc20b9.png)
 ![image](https://user-images.githubusercontent.com/82384249/232325022-110574b1-f5de-4c70-a92d-58d284d48e7e.png)
